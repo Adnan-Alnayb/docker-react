@@ -7,4 +7,4 @@ before_install:
  
 
 script:
- - docker run adnanalnayb/docker-react npm run test -- --coverage
+ - docker run travis_wait adnanalnayb/docker-react npm run test -- --coverage
