@@ -6,9 +6,7 @@ function App() {
 		<div className="App">
 			<header className="App-header">
 				<img src={logo} className="App-logo" alt="logo" />
-				<p>
-					I needs to change that is linked directly to the code <code> src/App.js</code> and save to reload.
-				</p>
+				<p>I changed to feature branch!</p>
 				<a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
 					Learn React
 				</a>
